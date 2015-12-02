@@ -140,7 +140,7 @@ class: center
 
 # アイデア誕生の瞬間
 
-<iframe class="narrow" src="http://blog.livedoor.jp/kotesaki/archives/1856455.html"></ifame>
+<a href="http://blog.livedoor.jp/kotesaki/archives/1856455.html">WebRTCをお手軽に。Peer.js試してみた ―― こてさきAjax</a>
 
 ???
 
