@@ -25,7 +25,8 @@ class: center
 
 .x15[この中からイマドキのサービス開発に<br>挑戦する人が現れること]
 
-挑戦しない方にも、働き方のヒントに使ってもらいたい
+すでに挑戦されている方とは、協力関係を築きたい    
+挑戦しない方には、働き方のヒントに使ってもらいたい
 
 ---
 
@@ -49,14 +50,14 @@ class: center, middle
 
 # 略歴
 
-- 1999年 ドリーム・アーツ入社
+- 1999年 [ドリーム・アーツ](http://www.dreamarts.co.jp)入社
 - 2001年 NTT Com入社
     - 音楽配信、VOD
-        - MUSICO (現TSUTAYA MUSICO)、bitmusic
+        - [MUSICO](http://musico.jp/)(TSUTAYAに売却)、bitmusic
     - Webエンジニア、プロジェクトマネージャ
 - 2012年 現職
-    - HTML5技術情報サイト “HTML5 Experts.jp”
-    - __WebRTC__プラットフォーム “__SkyWay__”
+    - HTML5技術情報サイト “[HTML5 Experts.jp](https://html5experts.jp)”
+    - WebRTCプラットフォーム “[SkyWay](http://nttcom.github.io/skyway/)”
     - ユニットリーダー(13人)、プロダクトマネージャ
 
 ???
@@ -64,6 +65,20 @@ class: center, middle
 - 成功していない人の個人的見解なので、そういう前提で聞いてほしい
 
 ---
+
+background-image: url(attachments/webrtc-and-skyway-02.jpg)
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+class: hidden
+
+---
+
+background-image: url(attachments/webrtc-and-skyway-04.jpg)
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+class: hidden
 
 # WebRTCとは
 
@@ -75,16 +90,68 @@ class: center, middle
 
 ---
 
+background-image: url(attachments/webrtc-and-skyway-05.jpg)
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+class: hidden
+
 ## リアルタイムコミュニケーションの歴史
 
 1. ベルさんが電話を発明してから120年間、電話会社が独占
+
+---
+
+background-image: url(attachments/webrtc-and-skyway-06.jpg)
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+class: hidden
+
+## リアルタイムコミュニケーションの歴史
+
 2. インターネット、Napster、Skype等が登場し、スーパーハッカーが参入
+
+---
+
+background-image: url(attachments/webrtc-and-skyway-07.jpg)
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+class: hidden
+
+## リアルタイムコミュニケーションの歴史
+
 3. WebRTCが登場し、ふつうのエンジニアでも使えるようになった
 
 ???
 
 - 参入障壁が下がる
 - リアルタイムコミュニケーションの民主化
+
+---
+
+background-image: url(attachments/webrtc-and-skyway-10.jpg)
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+class: hidden
+
+---
+
+background-image: url(attachments/webrtc-and-skyway-11.jpg)
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+class: hidden
+
+---
+
+background-image: url(attachments/webrtc-and-skyway-19.jpg)
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+class: hidden
 
 ---
 
@@ -95,6 +162,12 @@ class: center
 <iframe class="wide" src="https://nttcom.github.io/skyway/"></ifame>
 
 ---
+
+background-image: url(attachments/webrtc-and-skyway-20.jpg)
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+class: hidden
 
 # SkyWayとは
 
@@ -107,7 +180,7 @@ class: center
 
 class: center
 
-# デモ
+# デモ Web会議
 
 <iframe class="wide" src="https://confdemo.skyway.io/"></ifame>
 
@@ -115,6 +188,62 @@ class: center
 
 - URLを入れるだけでWeb会議が始まる
 - 8人まで参加できる
+
+---
+
+class: center
+
+# デモ ロボット
+
+<iframe class="wide" src="https://romo.skyway.io/"></ifame>
+
+---
+
+class: center
+
+# デモ ロボット
+
+<iframe class="wide" src="https://romo.skyway.io/"></ifame>
+
+---
+
+class: center
+
+# デモ ロボット
+
+<iframe class="narrow" src="https://www.youtube.com/embed/oO-WjCKX9LY" frameborder="0" allowfullscreen></iframe>
+
+---
+
+background-image: url(attachments/webrtc-and-skyway-35.jpg)
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+class: hidden
+
+---
+
+background-image: url(attachments/webrtc-and-skyway-36.jpg)
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+class: hidden
+
+---
+
+background-image: url(attachments/webrtc-and-skyway-37.jpg)
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+class: hidden
+
+---
+
+background-image: url(attachments/webrtc-and-skyway-38.jpg)
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+class: hidden
 
 ---
 
@@ -723,3 +852,5 @@ class: center
 # 最後に
 
 .x15[夢みたいな話かもしれないが、<br>NTT Comにも同士がいる。<br>あなたの会社でも絶対にできる。]
+
+WebRTCとSkyWayもよろしくお願いします！
