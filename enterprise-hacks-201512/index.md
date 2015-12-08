@@ -272,6 +272,30 @@ class: center
 
 ---
 
+class: center
+
+# デモ 字幕付きボイスチャット
+
+<iframe class="narrow" style="width: 320px; height: 480px; transform:  translateY(-20px)" src="https://skyway.io/examples/caption-phone/#ja"></iframe>
+
+class: center
+
+# デモ ロボット
+
+<iframe class="narrow" src="https://www.youtube.com/embed/oO-WjCKX9LY" frameborder="0" allowfullscreen></iframe>
+
+???
+
+- カーレースにも使ったり
+
+" frameborder="0" allowfullscreen></iframe>
+
+???
+
+- カーレースにも使ったり
+
+---
+
 background-image: url(attachments/webrtc-and-skyway-35.jpg)
 background-position: center;
 background-repeat: no-repeat;
