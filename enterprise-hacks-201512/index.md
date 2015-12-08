@@ -577,6 +577,25 @@ class: center
 
 ---
 
+class: center
+
+## おまけ：ツール類
+
+<img src="attachments/facebook.png" width="500">
+
+???
+
+- Slack, GitHub, AWS, ZenDesk
+- イマドキの当たり前のツールを使う
+
+---
+
+## おまけ：ツール類
+
+<iframe class="narrow"  src="//www.slideshare.net/slideshow/embed_code/key/J7iEcVdnZTCBxG"  frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
+
+---
+
 # 熱中できる仕事を作る
 
 - 一人ひとりの価値観や得意分野を理解して仕事をアサインする
