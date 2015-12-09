@@ -236,13 +236,13 @@ class: center
 
 class: center
 
-# デモ Web会議
+# デモ [ビデオ会議](https://appear.in/)
 
 <iframe class="wide" src="https://confdemo.skyway.io/"></ifame>
 
 ???
 
-- URLを入れるだけでWeb会議が始まる
+- URLを入れるだけでビデオ会議が始まる
 - 8人まで参加できる
 
 ---
