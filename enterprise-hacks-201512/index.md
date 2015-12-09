@@ -251,20 +251,6 @@ class: center
 
 # デモ ロボット
 
-<iframe class="wide" src="https://romo.skyway.io/"></ifame>
-
-???
-
-- Romoという15,000円くらいのロボット
-- iPhoneを差す
-- ブラウザから、iPhoneアプリに、Wi-FiまたはLTEでP2P接続し、コントロール
-
----
-
-class: center
-
-# デモ ロボット
-
 <iframe class="narrow" src="https://www.youtube.com/embed/oO-WjCKX9LY" frameborder="0" allowfullscreen></iframe>
 
 ???
