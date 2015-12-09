@@ -238,7 +238,7 @@ class: center
 
 # デモ [ビデオ会議](https://appear.in/)
 
-<iframe class="wide" src="https://confdemo.skyway.io/"></ifame>
+<iframe class="wide" src="https://appear.in/"></ifame>    
 
 ???
 
@@ -561,18 +561,6 @@ class: center
   - GitHubを使ってチーム開発できない
 - エンジニアはホンモノのインターネットを使うべき。
 - みなさんの会社のネットワーク環境は大丈夫ですか？
-
----
-
-class: center
-
-## おまけ：ツール類
-
-<img src="attachments/facebook.png" width="500">
-
-???
-
-- こちらで紹介された資料
 
 ---
 
