@@ -261,7 +261,7 @@ class: center
 
 class: center
 
-# デモ 字幕付きボイスチャット
+# デモ [字幕付きボイスチャット](https://skyway.io/examples/caption-phone/#ja)
 
 <iframe class="narrow" style="width: 320px; height: 480px; transform:  translateY(-20px)" src="https://skyway.io/examples/caption-phone/#ja"></iframe>
 
