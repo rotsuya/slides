@@ -226,7 +226,7 @@ class: center
 
 # SkyWayとは
 
-<img class="wide" src="attachments/skyway.jpg">
+<iframe class="wide" src="https://nttcom.github.io/skyway/"></ifame>
 
 ???
 
@@ -238,7 +238,7 @@ class: center
 
 # デモ ビデオ会議
 
-<img class="wide" src="attachments/skywayconf.jpg">    
+<iframe class="wide" src="https://confdemo.skyway.io/"></ifame>    
 
 ???
 
@@ -251,7 +251,7 @@ class: center
 
 # デモ ロボット
 
-<img class="narrow" src="attachments/youtube.jpg">
+<iframe class="narrow" src="https://www.youtube.com/embed/oO-WjCKX9LY" frameborder="0" allowfullscreen></iframe>
 
 ???
 
@@ -263,7 +263,7 @@ class: center
 
 # デモ [字幕付きボイスチャット](https://skyway.io/examples/caption-phone/#ja)
 
-<img class="vertical"  src="attachments/caption-phone-png8.png">
+<iframe class="vertical"  src="https://skyway.io/examples/caption-phone/#ja"></iframe>
 
 ---
 
@@ -340,7 +340,7 @@ class: center
 
 ### WebRTC Conference Japan<br>“日本にWebRTCのブームを起こしたい”
 
-<img class="wide" src="attachments/webrtcconf.jpg">
+<iframe class="wide" src="http://webrtcconference.jp/"></ifame>
 
 ???
 
@@ -541,7 +541,7 @@ class: center
 
 ## おまけ：ツール類
 
-<img class="narrow" style="width: 732px; transform: translateX(45px)" src="attachments/slideshare.jpg"  frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen>
+<iframe class="narrow" style="width: 732px; transform: translateX(45px)" src="//www.slideshare.net/slideshow/embed_code/key/J7iEcVdnZTCBxG"  frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ???
 
