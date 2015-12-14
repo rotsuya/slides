@@ -24,6 +24,7 @@
         padding: 0.5em 1em;
         border: #bbb 0.2em solid;
         border-radius: 1em 1em 0 1em;
+        background-color: #eee;
       }
       .hidden * {
         visibility: hidden;
@@ -47,18 +48,28 @@
         background-color: #333;
       }
       iframe.wide {
-        width: 1096px;
-        height: 660px;
+        width: 1067px;
+        height: 600px;
         transform-origin: 0 0;
-        transform: scale(0.75) translateY(-50px);
+        transform: scale(0.75) translate(14.7px, -40px);
         border: 0;
-        box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        box-shadow: 0 9px 27px rgba(0,0,0,0.5);
       }
       iframe.narrow {
         width: 800px;
         height: 450px;
+        transform-origin: 0 0;
+        transform: translateY(-30px);
         border: 0;
-        box-shadow: 0 7px 20px rgba(0,0,0,0.5);
+        box-shadow: 0 6px 18px rgba(0,0,0,0.5);
+      }
+      iframe.vertical {
+        width: 320px;
+        height: 480px;
+        transform-origin: 0 0;
+        transform: translateY(-30px);
+        border: 0;
+        box-shadow: 0 6px 18px rgba(0,0,0,0.5);
       }
       .inactive {
         color: #aaa;

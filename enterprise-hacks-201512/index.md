@@ -236,9 +236,9 @@ class: center
 
 class: center
 
-# デモ [ビデオ会議](https://appear.in/)
+# デモ ビデオ会議
 
-<iframe class="wide" src="https://appear.in/"></ifame>    
+<iframe class="wide" src="https://confdemo.skyway.io/"></ifame>    
 
 ???
 
@@ -263,23 +263,7 @@ class: center
 
 # デモ [字幕付きボイスチャット](https://skyway.io/examples/caption-phone/#ja)
 
-<iframe class="narrow" style="width: 320px; height: 480px; transform:  translateY(-20px)" src="https://skyway.io/examples/caption-phone/#ja"></iframe>
-
-class: center
-
-# デモ ロボット
-
-<iframe class="narrow" src="https://www.youtube.com/embed/oO-WjCKX9LY" frameborder="0" allowfullscreen></iframe>
-
-???
-
-- カーレースにも使ったり
-
-" frameborder="0" allowfullscreen></iframe>
-
-???
-
-- カーレースにも使ったり
+<iframe class="vertical"  src="https://skyway.io/examples/caption-phone/#ja"></iframe>
 
 ---
 
@@ -329,12 +313,12 @@ class: hidden
 
 | Date           | Event |
 |:--------------:|:------|
-| __2012/08__    | 現職に異動、[小松健作氏](https://www.ntt.com/evangelist/)と2人体制<br>オープンソース公開の社内調整開始 |
+| __2012/08__    | [小松健作氏](https://www.ntt.com/evangelist/)と2人体制<br>オープンソース公開の社内調整開始 |
 | __2013/04__    | SkyWayのアイデア誕生 |
 | __2013/07~09__ | SkyWayプロトタイプ開発 |
 | __2013/10__    | オープンソース公開の許可が降りる |
 | __2013/12__    | 公開 |
-| __2016/??__    | 商用化? |
+| __201?/??__    | 商用化? |
 
 ???
 
@@ -344,17 +328,10 @@ class: hidden
 
 ---
 
-class: center
-
 # アイデア誕生の瞬間
 
-<a href="http://blog.livedoor.jp/kotesaki/archives/1856455.html">WebRTCをお手軽に。Peer.js試してみた ―― こてさきAjax</a>
-
-???
-
-- 飛ばす
-- 小松さんのブログ
-- 面白い技術を紹介したり、サンプルを作ったりしていた
+- <a href="http://blog.livedoor.jp/kotesaki/archives/1856455.html">WebRTCをお手軽に。Peer.js試してみた ― こてさきAjax</a>
+- 小松さんがブログで、面白いWeb技術を紹介したり、サンプルを公開したりしていた
 - その中でもWebRTCは行けると感じた
 
 ---
@@ -372,7 +349,7 @@ class: center
 - CTO/CIO、情シス部長、スタートアップに、WebRTCを知ってもらいたい
 - 日本にWebRTCのブームを起こしたいと考えて、カンファレンスをやった
 - イベント会社はやってくれないから、実行委員会方式
-- Oracle、HPなど、WebRTC関連企業に100万円ずつ出資してもらう
+- WebRTC関連企業に100万円ずつ出資してもらう
 - イベント会社に託す
 
 ---
@@ -403,7 +380,7 @@ class: middle, no-margin
 
 .comment[Stay hungry, Stay foolish. .author[Whole Earth Catalog]]
 
-- 吹き出しっぽいやつは、誰か言葉を意味します
+- 吹き出しは誰かの言葉
 - 出展が書いていないのは私の言葉
 
 ---
@@ -423,6 +400,7 @@ class: middle, no-margin
 
 - 「力を与える」とは
   - 公式 または 非公式に権限を与えること
+  - 非公式の例
 
 .comment[今日から大津谷を課長と思って、言うことを聞け .author[内田健司 (元上司)]]
 
@@ -434,8 +412,6 @@ class: middle, no-margin
 ---
 
 # リーダーに力を与える
-
-.comment[今日から大津谷を課長と思って、言うことを聞け .author[内田健司 (元上司)]]
 
 - 入社5年目で、3ヶ月で音楽配信サービスを立ち上げるプロジェクトのマネージャに任命された時に、部長から言われた言葉
 - 大企業では、マネージャーになるまで何年もかかるが、20代~30代前半で実質的に経験できれば、優秀な若手のやる気につながる
@@ -473,7 +449,7 @@ class: middle, no-margin
 
 .comment[親だから、先生だから、敬えというのはおかしい。この人は信じても良い、この人の言うことは聞こう、と子供が決めること。 .author[[Telacoya921](http://www.telacoya921.com)]]
 
-- では権力を使わずにどうやってチームを動かすか。
+- では権力を使わずにどうやってチームを動かすか
 
 ???
 
@@ -504,9 +480,8 @@ class: middle, no-margin
 
 ## 仕事を仕事のモチベーションに
 
-- 「ブラック企業みたい」という意見も。
-- 違いは、ルーチン・ワークのコスト削減のためにやるか、    
-  答えのない新しい問題に挑む知的労働者の能力を引き出すためにやるか
+- 「ブラック企業みたい」という意見も
+- 違いは、ルーチン・ワークのコスト削減のためにやるか、答えのない新しい問題に挑む知的労働者の能力を引き出すためにやるか
 
 ---
 
@@ -515,7 +490,7 @@ class: center
 ## 仕事を仕事のモチベーションに
 
 <a href="http://www.amazon.co.jp/dp/4062144492"><img width="250" src="http://ecx.images-amazon.com/images/I/412tzq2vpML.jpg"></a>    
-この本にまとまっている。
+この本にまとまっている
 
 ---
 
@@ -524,10 +499,10 @@ class: center
 .comment[内発的な動機の3つの構成要素――自律性、熟達、目的 .author[[ダニエル・ピンク]( http://www.amazon.co.jp/dp/4062144492)]]
 
 - すなわち、
-  - 自由に好きなように働く
+  - 自由とセルフコントロール
   - 何かを極める
   - 意義を感じられる
-- ようにすればOK。その環境を作るのがリーダの仕事。
+- その環境を作るのがリーダの仕事。
 
 ---
 
@@ -566,7 +541,7 @@ class: center
 
 ## おまけ：ツール類
 
-<iframe class="narrow"  src="//www.slideshare.net/slideshow/embed_code/key/J7iEcVdnZTCBxG"  frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
+<iframe class="narrow" style="width: 732px; transform: translateX(45px)" src="//www.slideshare.net/slideshow/embed_code/key/J7iEcVdnZTCBxG"  frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ???
 
@@ -602,6 +577,8 @@ class: middle, no-margin
   - 難しいが、やり続ける
 
 .comment[日本人は納得しないと働かない .author[[日本IBM副会長 橋本孝之](https://ja.wikipedia.org/wiki/橋本孝之)]]
+
+- エンジニアも同じ
 
 ---
 
@@ -809,7 +786,7 @@ WebRTCを活用したサービス開発を促して、
 ### 例：良い人材を集める
 
 - (大企業では難しいが) あらゆるチャネルを使う
-  - 業務委託、派遣、中途、異動、新卒、インターン…
+  - 業務委託、派遣、中途、異動、社内公募、新卒、インターン…
 - (大企業では難しいが) 自分で人を選ぶ
   - 口コミ、根回し…
 
@@ -913,10 +890,7 @@ class: middle, no-margin
 - 理由は
   - ソフトウェアの重要性が増している
   - ソフトウェアの開発が容易になった
-
-???
-
-- コードが書きたくて、リスクを取って、社内公募に応募してきた社員の存在も、理由の一つ
+- コードが書きたくて、リスクを取って社内公募で異動してきた社員の存在も、理由の一つ
 
 ---
 
