@@ -338,9 +338,9 @@ class: hidden
 
 class: center
 
-### WebRTC Conference Japan<br>“日本にWebRTCのブームを起こしたい”
+### [WebRTC Conference Japan](http://webrtcconference.jp/)<br>“日本にWebRTCのブームを起こしたい”
 
-<iframe class="wide" src="http://webrtcconference.jp/"></ifame>
+<img class="wide" src="attachments/webrtcconf.jpg">
 
 ???
 
