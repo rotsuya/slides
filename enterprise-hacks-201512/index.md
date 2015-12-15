@@ -238,7 +238,7 @@ class: center
 
 # デモ ビデオ会議
 
-<iframe class="wide" src="https://confdemo.skyway.io/"></ifame>    
+<img class="wide" src="attachments/skywayconf.jpg">
 
 ???
 
